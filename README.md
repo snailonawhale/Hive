@@ -1,5 +1,5 @@
 # Hive
-A version control software for CAD! Compatible with all common CAD file formats, for easier teamwork without losing progress and confusing files. Suitable for engineering projects and design teams.
+A version control software for CAD! Compatible with Solidworks files, for easier teamwork without losing progress and confusing files. Suitable for engineering projects and design teams.
 
 ## Inspiration
 
@@ -7,7 +7,7 @@ Anyone who's worked with CAD knows how frustrating it can be, and in our experie
 
 ## What it does
 
-Hive is a version control software for CAD files. It creates a data tree for every project you have, to keep track of different files and versions! Users can upload new files, and the program will create a new node for them, while keeping a backup zip file of previous versions on the server. This way, you can easily keep track of any changes that you or your teammates make, and easily revert to previous versions if you made a mistake. This makes it much simpler to track your progress and compare your and your teammates designs, and is compatible with all common CAD file formats.
+Hive is a version control software for CAD files. It creates a data tree for every project you have, to keep track of different files and versions! Users can upload new files, and the program will create a new node for them, while keeping a backup zip file of previous versions on the server. This way, you can easily keep track of any changes that you or your teammates make, and easily revert to previous versions if you made a mistake. This makes it much simpler to track your progress and compare your and your teammates designs, and is compatible with Solidworks files. You can even open different file versions in Solidworks through Hive!
 
 ## How we built it
 
